@@ -1,0 +1,14 @@
+.col-sm-3 {
+    height: 280px;
+}
+.card{
+    height: 280px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    height: 250px;
+}
+li:hover{
+    background: blue;
+}
